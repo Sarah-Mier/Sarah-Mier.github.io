@@ -4,10 +4,10 @@
 .navmini {
     text-align: right;
 }
-
-/* .jumbotron img {
-  height: 800px;
-} */
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
 .jumbotron {
 background-image: url("HeroImage2.png");
 background-repeat: no-repeat;
@@ -31,7 +31,4 @@ background-repeat: no-repeat;
 }
 .fox {
   height: 215px
-}
-.mt-0 {
-  margin-top: 15px !important;
 }
