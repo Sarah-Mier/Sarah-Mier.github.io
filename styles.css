@@ -1,0 +1,37 @@
+.navbar-dark .navbar-brand {
+    color: #F39F0E;
+}
+.navmini {
+    text-align: right;
+}
+
+/* .jumbotron img {
+  height: 800px;
+} */
+.jumbotron {
+background-image: url("HeroImage2.png");
+background-repeat: no-repeat;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #F39F0E;
+    border-color: #F39F0E;
+}
+.Maria {
+  height: 350px
+}
+.pageonetext {
+  height: 350px
+}
+.icon {
+  height: 40px
+}
+.getstarted {
+  height: 400px
+}
+.fox {
+  height: 215px
+}
+.mt-0 {
+  margin-top: 15px !important;
+}
